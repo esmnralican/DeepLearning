@@ -1,4 +1,4 @@
-# DeepLearning
+# Deep Learning
 * Logistic Regression
 * Artificial Neural Network
 * CNN (Convolutional Neural Network)
